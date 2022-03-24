@@ -68,7 +68,7 @@ export default function Home() {
           </Heading>
           <Paragraph>
             I am a highly competent and dedicated frontend developer with two
-            years' experience developing a wide range of tools on the web, for a
+            years experience developing a wide range of tools on the web, for a
             range of clients. I have proven expertise in building e-commerce
             stores and blogging apps. I am very capable at all aspects of
             development from project planning through to writing, testing code
@@ -79,7 +79,7 @@ export default function Home() {
             my skills inside a fast paced environment. 
           </Paragraph>
           <Box align="center" my={4}>
-            <NextLink href="/works">
+            <NextLink href="/works" passHref>
               <Button rightIcon={<ChevronRightIcon />} colorScheme="teal">
                 My portfolio
               </Button>
