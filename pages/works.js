@@ -14,7 +14,7 @@ import thumbFreeDBTagger from "../public/images/works/freedbtagger_eyecatch.png"
 import thumbAmembo from "../public/images/works/amembo_eyecatch.png";
 import thumbCryptoverse from "../public/images/works/cryptoverse_01.png";
 import thumbTravelAdvisor from "../public/images/works/traveladvisor_01.png";
-import thumbRealEstate from "../public/images/works/realestate_01.png";
+import thumbRealEstate from "../public/images/works/Realestate_01.png";
 import thumbSearchEngine from "../public/images/works/searchengine_01.png";
 
 const Works = () => {
